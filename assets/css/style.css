@@ -82,9 +82,15 @@ body {
     width: 100%;
 }
 
+
+/* barra de navegacion transparente */
+
 .navbar {
     background-color: transparent !important;
 }
+
+
+/* no permite redimensionar la textarea */
 
 textarea {
     resize: none;
@@ -95,5 +101,5 @@ textarea {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    /* margin-left: 150px; */
+    margin-left: 100px;
 }
